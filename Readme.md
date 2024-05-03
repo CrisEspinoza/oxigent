@@ -2,6 +2,12 @@ Hol@, dejo a continuación el desarrollo de mi prueba técnica:
 
 En una primera instancia, debemos tener en cuenta lo siguiente: 
 
+Forma de ejecución:
+
+1. Se debe realizar la descarga de dependencias y luego solamente ejecutar la aplicación, ya se con su IDE de preferencias o bien 
+ejecutando el siguiente comando:
+   2. mvn spring-boot:run
+
 Descripción de la solución: 
 
 A continuación, se deja una pequeña explicación de las decisiones tomados dentro del proyecto para abarcar cada uno de los requerimiento: 
