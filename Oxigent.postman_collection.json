@@ -1,0 +1,180 @@
+{
+	"info": {
+		"_postman_id": "2cbe728c-9454-4699-a711-81b6943c3c07",
+		"name": "Oxigent",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34674129"
+	},
+	"item": [
+		{
+			"name": "Test 1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:80/api/v1/price?fechaAplicacion=2020-12-31 23:59:59&idProducto=as&idCadena=1",
+					"host": [
+						"localhost"
+					],
+					"port": "80",
+					"path": [
+						"api",
+						"v1",
+						"price"
+					],
+					"query": [
+						{
+							"key": "fechaAplicacion",
+							"value": "2020-12-31 23:59:59"
+						},
+						{
+							"key": "idProducto",
+							"value": "as"
+						},
+						{
+							"key": "idCadena",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Test 2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:80/api/v1/price?fechaAplicacion=2020-12-31 23:59:59&idProducto=as&idCadena=1",
+					"host": [
+						"localhost"
+					],
+					"port": "80",
+					"path": [
+						"api",
+						"v1",
+						"price"
+					],
+					"query": [
+						{
+							"key": "fechaAplicacion",
+							"value": "2020-12-31 23:59:59"
+						},
+						{
+							"key": "idProducto",
+							"value": "as"
+						},
+						{
+							"key": "idCadena",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Test 3",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:80/api/v1/price?fechaAplicacion=2020-12-31 23:59:59&idProducto=as&idCadena=1",
+					"host": [
+						"localhost"
+					],
+					"port": "80",
+					"path": [
+						"api",
+						"v1",
+						"price"
+					],
+					"query": [
+						{
+							"key": "fechaAplicacion",
+							"value": "2020-12-31 23:59:59"
+						},
+						{
+							"key": "idProducto",
+							"value": "as"
+						},
+						{
+							"key": "idCadena",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Test 4",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:80/api/v1/price?fechaAplicacion=2020-12-31 23:59:59&idProducto=as&idCadena=1",
+					"host": [
+						"localhost"
+					],
+					"port": "80",
+					"path": [
+						"api",
+						"v1",
+						"price"
+					],
+					"query": [
+						{
+							"key": "fechaAplicacion",
+							"value": "2020-12-31 23:59:59"
+						},
+						{
+							"key": "idProducto",
+							"value": "as"
+						},
+						{
+							"key": "idCadena",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Test 5",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:80/api/v1/price?fechaAplicacion=2020-12-31 23:59:59&idProducto=as&idCadena=1",
+					"host": [
+						"localhost"
+					],
+					"port": "80",
+					"path": [
+						"api",
+						"v1",
+						"price"
+					],
+					"query": [
+						{
+							"key": "fechaAplicacion",
+							"value": "2020-12-31 23:59:59"
+						},
+						{
+							"key": "idProducto",
+							"value": "as"
+						},
+						{
+							"key": "idCadena",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -42,13 +42,6 @@
 			<version>2.2.224</version>
 		</dependency>
 
-		<!-- Jasypt -->
-		<dependency>
-			<groupId>com.github.ulisesbocchio</groupId>
-			<artifactId>jasypt-spring-boot</artifactId>
-			<version>3.0.5</version>
-		</dependency>
-
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
