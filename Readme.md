@@ -21,6 +21,6 @@ A continuación, se deja una pequeña explicación de las decisiones tomados den
    clases de excepciones para manejar dentro del código.
 
 Postman:
-![</span><span>BCI Api](https://github.com/CrisEspinoza/bci-test/blob/main/images/postman.png)
+![</span><span>Oxigent Api](https://github.com/CrisEspinoza/oxigent/blob/main/images/postman.png)
 
 Sin mas que agregar, se despide Cristian Eduardo Espinoza Silva. 
